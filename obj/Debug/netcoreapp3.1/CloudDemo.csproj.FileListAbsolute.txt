@@ -1,0 +1,9 @@
+C:\Users\Shailesh\source\repos\CloudDemo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Shailesh\source\repos\CloudDemo\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Shailesh\source\repos\CloudDemo\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Shailesh\source\repos\CloudDemo\obj\Debug\netcoreapp3.1\CloudDemo.csprojAssemblyReference.cache
+C:\Users\Shailesh\source\repos\CloudDemo\obj\Debug\netcoreapp3.1\CloudDemo.AssemblyInfoInputs.cache
+C:\Users\Shailesh\source\repos\CloudDemo\obj\Debug\netcoreapp3.1\CloudDemo.AssemblyInfo.cs
+C:\Users\Shailesh\source\repos\CloudDemo\obj\Debug\netcoreapp3.1\CloudDemo.RazorTargetAssemblyInfo.cache
+C:\Users\Shailesh\source\repos\CloudDemo\obj\Debug\netcoreapp3.1\staticwebassets\CloudDemo.StaticWebAssets.Manifest.cache
+C:\Users\Shailesh\source\repos\CloudDemo\obj\Debug\netcoreapp3.1\staticwebassets\CloudDemo.StaticWebAssets.xml
