@@ -1,4 +1,4 @@
-﻿apiVersion: apps/v1
+apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: DockerSampleConfig-deployment
@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: 852146DNAzureACR
-        image: 852146dnazureacr.azurecr.io/CloudDemo:latest
+        image: 852146dnazureacr.azurecr.io/clouddemo:latest
         ports:
         - containerPort: 8080
       imagePullSecrets:
