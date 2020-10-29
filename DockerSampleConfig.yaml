@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: DockerSampleConfig-deployment
+  name: dockersampleconfig-deployment
 spec:
   replicas: 1
   selector:
@@ -13,7 +13,7 @@ spec:
         app: DockerSampleConfig
     spec:
       containers:
-      - name: 852146DNAzureACR
+      - name: clouddemo
         image: 852146dnazureacr.azurecr.io/clouddemo:latest
         ports:
         - containerPort: 8080
@@ -24,7 +24,7 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
-  name: DockerSampleConfig
+  name: dockersampleconfig
 spec:
   type: LoadBalancer
   ports:
