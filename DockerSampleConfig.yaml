@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: clouddemo
-        image: 852146dnazureacr.azurecr.io/clouddemo:latest
+        image: 852142dnazureacr.azurecr.io/clouddemo:latest
         ports:
         - containerPort: 8080
       imagePullSecrets:
